@@ -1,6 +1,6 @@
 # Write-up of UTCTF Challenge: Domain Generation Algorithm
 
-Challenge   : Domain Generation Algorithm
+`Challenge   : Domain Generation Algorithm
 
 Point Value : 400
 
@@ -10,7 +10,7 @@ Scenario    :  This executable calculates a new domain depending on the system t
 
 Note        : the flag is utflag{domain_name.tld}
 
-Developer   : jitterbug_gang
+Developer   : jitterbug_gang`
 
 
 Understanding what we are dealing with:
