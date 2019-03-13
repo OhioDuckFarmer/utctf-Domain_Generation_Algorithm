@@ -1,11 +1,17 @@
 # Write-up of UTCTF Challenge: Domain Generation Algorithm
 
 Challenge   : Domain Generation Algorithm
+
 Point Value : 400
+
 Source Image: https://storage.googleapis.com/utctf/dga
+
 Scenario    :  This executable calculates a new domain depending on the system time. See if you can predict what the new domain will be on Tue, 20 Apr 2021 13:25:03 GMT.
+
 Note        : the flag is utflag{domain_name.tld}
+
 Developer   : jitterbug_gang
+
 
 Understanding what we are dealing with:
 
